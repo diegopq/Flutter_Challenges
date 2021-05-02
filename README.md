@@ -6,4 +6,4 @@ Compilation of challenges published in the Facebook group called "Flutter & Dart
 
 1. Bottom Bar Player
 
-[![ezgif.com-gif-makerbc2e2935dae5f7f0.th.gif](https://s3.gifyu.com/images/ezgif.com-gif-makerbc2e2935dae5f7f0.th.gif)](https://gifyu.com/image/5NLz)
+[![ezgif.com-gif-makerbc2e2935dae5f7f0.gif](https://s3.gifyu.com/images/ezgif.com-gif-makerbc2e2935dae5f7f0.gif)](https://gifyu.com/image/5NLz)
